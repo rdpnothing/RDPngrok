@@ -1,3 +1,3 @@
 import time
-time.sleep(9999999)
+time.sleep(28800)
 print("time out server")
